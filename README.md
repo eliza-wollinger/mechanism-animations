@@ -5,7 +5,13 @@ A collection of Python simulations and animations for classical mechanical mecha
 ## Included Mechanisms
 
 - Crank-Slider Mechanism
+
+![Crank-Slider Animation](gifs/biela_manivela.gif)
+
 - Whitworth Quick-Return Mechanism
+
+![Crank-Slider Animation](gifs/mecanismo_whitworth.gif)
+
 
 ## Features
 
